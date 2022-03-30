@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=Lavanidad&?count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Lavanidad&?count_private=true&theme=buefy)
 
 <!--
 **Lavanidad/Lavanidad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
